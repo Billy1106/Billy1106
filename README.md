@@ -4,6 +4,7 @@
 📍 Vancouver, Canada 🇨🇦 | 📧 ryotabilly@gmail.com | [LinkedIn](www.linkedin.com/in/ryota-koda-1a970521)
 
 ---
+![](https://komarev.com/ghpvc/?username=Billy1106)
 
 ### 💡 About Me
 I'm a software engineer from Japan! 
