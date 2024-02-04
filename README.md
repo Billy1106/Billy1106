@@ -25,7 +25,7 @@ I'm a software engineer from Japan!
 
 ### 🚀 Personal Projects
 
-- **[EasyKanban](https://github.com/Billy1106/native-jobs)** (React, TypeScript, MongoDB, Java) - A full-stack web app for task and project management with a drag-and-drop interface and a scalable backend for real-time updates.
+- **[EasyKanban](https://github.com/Billy1106/EasyKanban)** (React, TypeScript, MongoDB, Java) - A full-stack web app for task and project management with a drag-and-drop interface and a scalable backend for real-time updates.
 - **[TreasureGunner](https://zenith08.itch.io/treasure-gunner)** (C++) - A top-down 2D shooting game awarded for its innovative gameplay and technical execution.
 
 ### 🎓 Education
