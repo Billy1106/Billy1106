@@ -38,7 +38,3 @@ I'm a software engineer from Japan!
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Billy1106&show_icons=true&locale=en&layout=compact)
 
 ![](https://skillicons.dev/icons?i=java,js,typescript,vue,react,go,firebase,aws)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Billy1106&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy1106&theme=default)
